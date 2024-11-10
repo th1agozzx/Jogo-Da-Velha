@@ -59,7 +59,7 @@ input::placeholder {
 .game-container {
     display: flex;
     align-items: center; /* Centraliza o conteúdo horizontalmente */
-    margin-left: 140px;
+    margin-left: 170px;
     padding: 1rem;
 }
 
