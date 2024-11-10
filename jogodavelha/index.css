@@ -48,7 +48,7 @@ input {
 
 input:focus {
     outline: none;
-    border-color: #f14a74;
+    border-color: #fa3d6c;
     box-shadow: 0 0 10px rgba(255, 46, 99, 0.8);
 }
 
